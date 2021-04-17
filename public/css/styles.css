@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	background-color: #fff;
+	text-align: center;
+}
+
+#main {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url('/images/noofs-logo.jpg');
+	background-position: 0px 50px;
+	background-repeat: no-repeat;
+	min-height: 400px;
+}
+
+h1 {
+	text-indent: -99999px;
+}
+
+h2 {
+	margin-top: 310px;
+	line-height: 26px;
+}
+
+a {
+	color: #00508F;
+}
